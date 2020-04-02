@@ -1,0 +1,255 @@
+/* Attribution */
+
+.attribution {
+  margin-top: 25px;
+  font-size: 11px; text-align: center;
+}
+
+/* Navbar */
+.brand-logo {
+  width: 50%;
+}
+
+.nav-item {
+  color: rgba(255, 255, 255, 1);
+  padding: 0 15px;
+}
+
+/* Intro */
+.ill-intro {
+  display: block;
+  margin: auto;
+  padding: 0 0 50px 0;
+}
+
+
+/* Body */
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  color: #fff;
+  background-color: hsl(218, 28%, 13%);
+}
+
+/* Title Section */
+
+#title {
+  background-color: hsl(217, 28%, 15%);
+}
+
+.header-title, .subheader-title, .get-started-button {
+  position: relative;
+  z-index: 1;
+}
+
+.header-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 0 20%;
+}
+
+.subheader-title {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 0 30% 2%;
+}
+
+.get-started-button {
+  font-size: 1rem;
+  width: 20%;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.curve-dsk {
+  position: relative;
+  width: 100%;
+  margin-top: -225px;
+}
+
+/* Feature Section */
+
+#features {
+  background-color: hsl(218, 28%, 13%);
+  padding: 0 15%;
+}
+
+.header-feature {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.subheader-feature {
+  font-size: 1rem;
+  line-height: 1.5;
+  padding: 0 15% 10%;
+}
+
+.feature-icon {
+  padding-bottom: 15px;
+}
+
+
+.row {
+  margin: 0;
+}
+
+/* CTA Section */
+
+.cta-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  padding-bottom: 50px;
+}
+
+.cta-image {
+  float: left;
+  padding-left: 10%;
+  padding-right: 4%;
+}
+
+.header-cta {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  padding-right: 20%;
+  padding-top: 7%;
+}
+
+.subheader-cta {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.cta-link {
+  color: hsl(176, 68%, 64%);
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 4% 10%;
+}
+
+.testimonial-box {
+  position: relative;
+  background-color: hsl(219, 30%, 18%);
+  box-shadow: 5px 5px 10px hsl(216, 53%, 9%);
+  border-radius: 10px;
+  font-size: 0.9rem;
+  text-align: left;
+  padding: 10% 10% 5% 10%; /* top right bottom left */
+  margin-bottom: 10%;
+  max-width: 405px;
+}
+
+.testimonial {
+  margin-bottom: 10%;
+}
+
+.testimonial-profile {
+  border-radius: 50%;
+  width: 15%;
+  float: left;
+  margin-right: 10px;
+}
+
+.testimonial-name {
+  margin-bottom: 0;
+}
+
+.bg-quotes {
+  position: absolute;
+  left: 0%;
+  bottom: 95%;
+}
+
+/* Sign Up Section */
+
+.sign-up-box {
+  background-color: hsl(217, 28%, 15%);
+  padding: 2% 5%;
+  margin: 2% 20%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px hsl(216, 53%, 9%);
+  position: relative;
+  top: 120px;
+}
+
+.header-sign-up {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.subheader-sign-up {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.sign-up {
+  border-radius: 20px;
+  width: 100%;
+  height: 35px;
+}
+
+.sign-up-box .get-started-button {
+  font-size: 0.8rem;
+  width: 100%;
+}
+
+.sign-up-box .row {
+  padding-top: 20px;
+}
+
+
+/* Footer Section */
+
+#footer {
+  background-color: hsl(216, 53%, 9%);
+  padding: 10% 5% 5% 5%;
+  text-align: left;
+}
+
+.footer-logo {
+  float: left;
+  padding-bottom: 30px;
+}
+
+.footer-location .footer-icon {
+  float: left;
+  padding: 5px 10px 30px 0;
+}
+
+.footer-contact {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.footer-contact .footer-icon {
+  padding-right: 20px;
+}
+
+.footer-map {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.footer-map a {
+  color: #fff;
+}
+
+.fab {
+  padding-right: 10px;
+}
+
+@media (max-width: ){
+
+}
